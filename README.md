@@ -13,7 +13,7 @@
 7. [Conditionals](essentials/section2/conditionals.go)
 8. [Switch](essentials/section2/switchdemo.go)
 9. [Loops](essentials/section2/loopsdemo.go)
-10. [Command line Args](#)
+10. [Command line Args](essentials/section2/repeatgreetings.go)
 11. [Command line Args with flags](#)
 12. [Regex](#)
 
