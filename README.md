@@ -8,7 +8,7 @@
 2. [Numeric Types](essentials/section2/declarenumerics.go)
 3. [String Basics](essentials/section2/stringbasics.go)
 4. [Enumeration](essentials/section2/enumerations)
-5. [Packages](#)
+5. [Packages](essentials/section2/packagedemo)
 6. [Functions](#)
 7. [Conditionals](#)
 8. [Switch](#)
