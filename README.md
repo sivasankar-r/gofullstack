@@ -9,7 +9,7 @@
 3. [String Basics](essentials/section2/stringbasics.go)
 4. [Enumeration](essentials/section2/enumerations)
 5. [Packages](essentials/section2/packagedemo)
-6. [Functions](#)
+6. [Functions](essentials/section2/funwithfuncs.go)
 7. [Conditionals](#)
 8. [Switch](#)
 9. [Loops](#)
