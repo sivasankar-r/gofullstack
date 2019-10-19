@@ -15,7 +15,7 @@
 9. [Loops](essentials/section2/loopsdemo.go)
 10. [Command line Args](essentials/section2/repeatgreetings.go)
 11. [Command line Args with flags](essentials/section2/personalgreetings.go)
-12. [Regex](#)
+12. [Regex](essentials/section2/usernamechecker.go)
 
 ### Section 3
 1. [Arrays](#)
