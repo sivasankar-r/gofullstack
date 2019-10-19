@@ -10,7 +10,7 @@
 4. [Enumeration](essentials/section2/enumerations)
 5. [Packages](essentials/section2/packagedemo)
 6. [Functions](essentials/section2/funwithfuncs.go)
-7. [Conditionals](#)
+7. [Conditionals](essentials/section2/conditionals.go)
 8. [Switch](#)
 9. [Loops](#)
 10. [Command line Args](#)
