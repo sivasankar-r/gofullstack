@@ -1,11 +1,11 @@
 # Go Fullstack
 ## Essentials
 ### Section 1
-1. [Hello Gopher]()
+1. [Hello Gopher](essentials/section1/hellogopher.go)
 
 ### Section 2
-1. [Boolean Type]()
-2. [Numeric Types]()
+1. [Boolean Type](essentials/section2/lightswitch.go)
+2. [Numeric Types](essentials/section2/declarenumerics.go)
 3. [String Basics]()
 4. [Enumerator using iota]()
 5. [Packages]()
