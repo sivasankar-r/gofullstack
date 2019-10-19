@@ -11,7 +11,7 @@
 5. [Packages](essentials/section2/packagedemo)
 6. [Functions](essentials/section2/funwithfuncs.go)
 7. [Conditionals](essentials/section2/conditionals.go)
-8. [Switch](#)
+8. [Switch](essentials/section2/switchdemo.go)
 9. [Loops](#)
 10. [Command line Args](#)
 11. [Command line Args with flags](#)
