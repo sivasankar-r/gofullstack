@@ -6,9 +6,9 @@
 ### Section 2
 1. [Boolean Type](essentials/section2/lightswitch.go)
 2. [Numeric Types](essentials/section2/declarenumerics.go)
-3. [String Basics]()
-4. [Enumerator using iota]()
-5. [Packages]()
+3. [String Basics](essentials/section2/stringbasics.go)
+4. [Enumerator using iota](#)
+5. [Packages](#)
 6. [Functions]()
 7. [Conditionals]()
 8. [Switch]()
