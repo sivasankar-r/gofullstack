@@ -30,7 +30,7 @@ func main() {
 	// the below line will not compile, since myArray is [3]int and aArray is [5]int. they are incompatible
 	// aArray = myArray
 
-	// Declare and initialize using the := operator. do not use var when using :=
+	// One-liner to declare and initiallize an array using the := operator. do not use var when using :=
 	bArray := [5]int{1, 2, 3, 4, 5}
 	aArray = bArray
 	fmt.Println("aArray:", aArray)
@@ -46,6 +46,8 @@ func main() {
 	} else {
 		fmt.Println("values in aArray and bArray are not equal\n")
 	}
+
+	twoDimensional()
 }
 
 // since arrays are passed by value, the updates on the input array will not affect the original array
@@ -63,4 +65,14 @@ func updateArrayWithReturn(input [3]int) [3]int {
 	input[2] = 9
 	fmt.Printf("in the updateArrayWithReturn(), array: %v\n", input)
 	return input
+}
+
+func twoDimensional() {
+	var twoD [2][3]int
+	for i := 0; i < 2; i++ {
+		for j := 0; j < 3; j++ {
+			twoD[i][j] = i + j
+		}
+	}
+	fmt.Println("two dimensional array:", twoD, "\n")
 }
