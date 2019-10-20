@@ -18,5 +18,5 @@
 12. [Regex](essentials/section2/usernamechecker.go)
 
 ### Section 3
-1. [Arrays](#)
+1. [Arrays](essentials/section3/arraysdemo.go)
 2. [Slice](#)
