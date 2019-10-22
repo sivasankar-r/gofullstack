@@ -21,3 +21,4 @@
 1. [Arrays](essentials/section3/arraysdemo.go)
 2. [Slice](essentials/section3/slicesdemo.go)
 3. [Maps](essentials/section3/mapsdemo.go)
+4. [Pointers](essentials/section3/pointersdemo.go)
