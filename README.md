@@ -22,6 +22,6 @@
 2. [Slice](essentials/section3/slicesdemo.go)
 3. [Maps](essentials/section3/mapsdemo.go)
 4. [Pointers](essentials/section3/pointersdemo.go)
-5. [Struct] (essentials/section3/structdemo.go)
-6. [Pointers in Struct](essentials/section3/structpointersdemo.go) Refer https://tour.golang.org/moretypes/4
+5. [Struct](essentials/section3/structdemo.go)
+6. [Pointers in Struct](essentials/section3/structpointersdemo.go)
 7. [Interface](essentials/section3/interfacedemo.go)
