@@ -28,3 +28,12 @@
 5. [Struct](essentials/section3/structdemo.go)
 6. [Pointers in Struct](essentials/section3/structpointersdemo.go)
 7. [Interface](essentials/section3/interfacedemo.go)
+
+## Backend Web Development
+
+### Section 1
+1. [Template Demo](backend/section1/templatedemo)
+2. [Template Demo with static files](backend/section1/smptemplate)
+
+### Section 2
+## Frontend Web Development
